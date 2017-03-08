@@ -1,2 +1,2 @@
 # tsinhuaitalk
-English Blog Like Sina Weibo
+English Blog Similar to Sina Weibo
